@@ -2,7 +2,7 @@ Diagnosing Model For Pneumonia Detection From Xray Images Using Keras With 99.9%
 
 I have used my knowledge from Coursera courses to implement a Binary Classifier for Pneumonia detection I mainly used Keras library to code my model.
 My primary concerns while I was working on the project is to implement the classifier with very high accuracy and at the same time keeping the model size small. 
-I used Kaggle Dataset (Chest X-Ray Images (Pneumonia)). My hope is that these models can help to improve the diagonsing process :) 
+I used Kaggle Dataset (Chest X-Ray Images (Pneumonia)). My hope is that these models can help improving the diagonsing process :) 
 
 
 Model characteristics:
